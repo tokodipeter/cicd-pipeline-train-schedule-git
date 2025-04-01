@@ -1,1 +1,12 @@
 node_modules
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+
+# ignore Gradle files in project root directory
+gradlew
+gradle.properties
+gradlew.bat
